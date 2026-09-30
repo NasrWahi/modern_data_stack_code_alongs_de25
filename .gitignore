@@ -9,6 +9,7 @@ logs/
 .dlt
 
 setup_user.sql
+new_setup.sql
 
 
 # Byte-compiled / optimized / DLL files
