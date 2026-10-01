@@ -5,8 +5,12 @@ dbt_packages/
 logs/
 .env
 
+setup_service_acc.sql
+setup_user_reporter.sql
+
 #
 .dlt
+**/.dlt/
 
 setup_user.sql
 new_setup.sql
