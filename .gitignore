@@ -1,5 +1,7 @@
-# dbt
+# dagster
+**/.tmp*/
 
+# dbt
 target/
 dbt_packages/
 logs/
