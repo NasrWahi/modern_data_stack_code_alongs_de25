@@ -9,6 +9,7 @@ dependencies = [
     "dagster-dbt>=0.29.25",
     "dagster-dlt>=0.29.25",
     "dagster-webserver>=1.13.25",
+    "dbt-snowflake>=1.12.3",
     "dlt[parquet,snowflake]>=1.30.0",
     "ipykernel>=7.3.0",
     "pandas>=3.0.5",
